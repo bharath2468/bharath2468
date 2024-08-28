@@ -23,7 +23,7 @@ In addition to my Machine Learning work, I’ve completed some exciting projects
 
 ## 📫 How to Reach Me
 
-Feel free to reach out via [Email](mailto:your-email@example.com). I’m always open to new opportunities, collaborations, or simply having a good conversation about Data Science and Web Development.
+Feel free to reach out via [Email](mailto:bharath29704@gmail.com). I’m always open to new opportunities, collaborations, or simply having a good conversation about Data Science and Web Development.
 
 ## ⚡ Fun Fact
 
