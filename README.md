@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there 👋 <p align="right"> <img src="https://komarev.com/ghpvc/?username=bharath2468&label=Profile%20views&color=0e75b6&style=flat" alt="bharath2468" /> </p>
 
 Welcome to my GitHub profile! I'm **Bharath**, a passionate and dedicated student deeply immersed in the fascinating world of Data Science. My primary focus is on **Machine Learning**, where I’m constantly exploring and mastering different algorithms and the mathematical principles that drive them. Alongside my ML journey, I’m also sharpening my skills in web development with the **MERN stack**.
 
@@ -31,8 +31,10 @@ When I’m not crunching numbers, training models, or coding, you can find me un
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bharath2468&show_icons=true&locale=en&layout=compact" alt="bharath2468" /></p>
+<p><img align="left" width=400 max-width=100% src="https://github-readme-stats.vercel.app/api/top-langs?username=bharath2468&show_icons=true&locale=en&layout=compact" alt="bharath2468" /></p>
 
-Thank you for visiting my profile! I'm excited to share my journey with you, and I look forward to connecting with like-minded individuals and collaborators.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<p style="clear: both;">Thank you for visiting my profile! I'm excited to share my journey with you, and I look forward to connecting with like-minded individuals and collaborators.
 
 
