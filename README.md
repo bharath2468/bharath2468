@@ -31,6 +31,8 @@ When I’m not crunching numbers, training models, or coding, you can find me un
 
 ---
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bharath2468&show_icons=true&locale=en&layout=compact" alt="bharath2468" /></p>
+
 Thank you for visiting my profile! I'm excited to share my journey with you, and I look forward to connecting with like-minded individuals and collaborators.
 
 
